@@ -15,6 +15,8 @@ It is also a semi-puzzle game
 - Procedural Generation
 - Time pressure?
 
+code is at [games/Battery_Blitz.js](https://github.com/cybdo/Sprig/tree/main/games/Battery_Blitz.js)
+
 # 🍃 Hack Club Sprig 🍃
 
 **[💻 Online Editor: Make a game](https://sprig.hackclub.com/editor)** | **[👀 Gallery: Find games](https://sprig.hackclub.com/gallery)** | **[🕸 Landing Page](https://sprig.hackclub.com)** | **[🎮 Firmware](https://github.com/hackclub/spade)** | **[👾 Engine](https://github.com/hackclub/sprig-engine)**
